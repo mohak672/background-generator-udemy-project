@@ -1,0 +1,19 @@
+body{
+	font-family: sans-serif;
+	color: rgba(0,0,0,0.5);
+	background: linear-gradient(to right,red,yellow);
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 0.5rem;
+	top: 15%;
+}
+
+h1{
+	font: 600 3.5em 'Raleway', sans-serif;
+	width: 100%;
+}
+
+h3{
+	font:900 1em 'Raleway', sans-serif; /*//in this style, first field is font-weight, second is font-size and third is font-family*/
+	letter-spacing: 0.1rem;
+}
